@@ -8,5 +8,7 @@ namespace Test123.middlewares
 {
     internal class Login
     {
+        public int MSSV { get; set; }
+        public int ID { get; set; }
     }
 }
